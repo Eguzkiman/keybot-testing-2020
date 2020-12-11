@@ -15,3 +15,6 @@ def derecha ():
 
 def auto_mode ():
     print "auto"
+
+def girar():
+    print('girar')
