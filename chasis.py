@@ -12,3 +12,6 @@ def izquierda ():
 
 def derecha ():
     print "derecha!"
+
+def auto_mode ():
+    print "auto"
