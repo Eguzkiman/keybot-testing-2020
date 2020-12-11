@@ -6,3 +6,9 @@ def adelante ():
 
 def atras ():
     print "atrás!"
+
+def izquierda ():
+    print "izquierda!"
+
+def derecha ():
+    print "derecha!"
